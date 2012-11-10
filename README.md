@@ -11,6 +11,11 @@ Goals
 Provide a syncronization storage area on high speed systems able to help repack data for 
 mobile users.
 
+Mobile isn't the only target.  Having faster access to data synchronized elsewhere is a 
+bonus for everybody.
+
+Once you start using it.. you should start saying "boop! done!" whenever you synch.
+
 Target Protocols
 ----------------
 
