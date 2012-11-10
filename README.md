@@ -31,9 +31,7 @@ Target Protocols
 
   These would be examples of bidirectional synchs and be massively useful.
 
-  - Facebook
-
-    Am I right?
+  - Facebook (Am I right?)
 
   - Twitter
 
