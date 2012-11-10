@@ -20,9 +20,7 @@ Target Protocols
 ----------------
 
   - IMAP(S)
-
   - POP(S)
-
   - SMTP(S)
 
       This would be an example of an outbound or reversed synch.
