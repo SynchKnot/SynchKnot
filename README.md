@@ -19,27 +19,29 @@ Once you start using it.. you should start saying "boop! done!" whenever you syn
 Target Protocols
 ----------------
 
-- IMAP(S)
+  - IMAP(S)
 
-- POP(S)
+  - POP(S)
 
-- SMTP(S)
+  - SMTP(S)
 
-  This would be an example of an outbound or reversed synch.
+      This would be an example of an outbound or reversed synch.
 
-- Social Networks
+  - Social Networks
 
-  These would be examples of bidirectional synchs and be massively useful.
+      These would be examples of bidirectional synchs and be massively useful.
 
-  - Facebook (Am I right?)
+      - Facebook
 
-  - Twitter
+          Am I right?
 
-- Syndication
+      - Twitter
 
-  - RSS
+  - Syndication
+  
+      - RSS
 
-  - ATOM
+      - ATOM
 
 What good does it do?
 ---------------------
