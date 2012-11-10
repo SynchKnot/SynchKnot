@@ -22,24 +22,15 @@ Target Protocols
   - IMAP(S)
   - POP(S)
   - SMTP(S)
-
-      This would be an example of an outbound or reversed synch.
-
+    This would be an example of an outbound or reversed synch.
   - Social Networks
-
-      These would be examples of bidirectional synchs and be massively useful.
-
-      - Facebook
-
-          Am I right?
-
-      - Twitter
-
+    These would be examples of bidirectional synchs and be massively useful.
+    - Facebook
+      Am I right?
+    - Twitter
   - Syndication
-  
-      - RSS
-
-      - ATOM
+    - RSS
+    - ATOM
 
 What good does it do?
 ---------------------
